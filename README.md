@@ -6,4 +6,4 @@ Run HeartDiseasePrediction.py on any IDE (Preferred Anaconda)
 
 OR 
 
-Run the Untitled.ipynb using jupyter notebook.
+Run the HeartDiseasePrediction.ipynb using jupyter notebook.
